@@ -1,0 +1,17 @@
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.exe
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.deps.json
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.json
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.dev.json
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.dll
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.pdb
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.Form1.resources
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.Properties.Resources.resources
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.GenerateResource.cache
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfo.cs
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.dll
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.pdb
+C:\Users\eilon\source\repos\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.genruntimeconfig.cache
